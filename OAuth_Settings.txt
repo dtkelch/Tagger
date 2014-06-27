@@ -1,0 +1,25 @@
+Twitter
+
+Consumer key:
+p0eq8NMKUmBQGJDugMNpW1hb8
+
+Consumer secret:
+eKgaNjZh3kUCSB8VwAItsYGpg3eZ1rUNY21PjvYihvWwzPpRTG
+
+Access token/key:
+40087586-E2lSs4DOYf7yzFFlB66glfOdKG1i71CBgnXY6BCDS
+40087586-E2lSs4DOYf7yzFFlB66glfOdKG1i71CBgnXY6BCDS
+
+Access token secret:
+hjHEUP54AV2sEAS9xrxSbR9hm0Z34ClNC6DQyXzP9JY48
+hjHEUP54AV2sEAS9xrxSbR9hm0Z34ClNC6DQyXzP9JY48
+
+
+
+Instagram:
+
+Client ID:
+8c5a41c9494349448b569a4a4c19415f
+
+Client secret:
+ab0f2755f92c4751be21a686a07e07d5
